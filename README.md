@@ -1,8 +1,9 @@
 <h1 align="center">Hey there, I'm Ankush 👋</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Senior+Software+Developer+%40+Appbroda;Full+Stack+Engineer+%7C+Cloud+Native+Builder;Tech+Leader+%7C+System+Design+Enthusiast;Node.js+%7C+Python+%7C+React+%7C+AWS" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Senior+Software+Developer+%40+Appbroda;|+Full+Stack+Engineer+%7C+Cloud+Native+Builder+|;Tech+Leader+%7C+System+Design+Enthusiast;Node.js+%7C+Python+%7C+React+%7C+AWS" alt="Typing SVG" />
+</p>
+
 
 ---
 
@@ -58,7 +59,7 @@ I'm a passionate **Full Stack Developer** with a strong background in designing 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankushmishraji7&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushmishraji7%22&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushmishraji7%22&theme=default" height="170" />
 </p>
 
 ---
