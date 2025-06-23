@@ -1,8 +1,8 @@
 <h1 align="center">Hey there, I'm Ankush 👋</h1>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Senior+Software+Developer+%40+Appbroda;Full+Stack+Engineer+%7C+Cloud+Native+Builder;Tech+Leader+%7C+System+Design+Enthusiast;Node.js+%7C+Python+%7C+React+%7C+AWS" alt="Typing SVG" />
-</p>
+</div>
 
 ---
 
