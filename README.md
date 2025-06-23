@@ -59,7 +59,6 @@ I'm a passionate **Full Stack Developer** with a strong background in designing 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankushmishraji7&show_icons=true&theme=tokyonight" height="170" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ankushmishraji7&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 ---
