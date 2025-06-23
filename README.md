@@ -81,7 +81,6 @@ I'm a passionate **Full Stack Developer** with a strong background in designing 
 
 ### 🤝 Let’s Connect
 
-- 🌐 [Portfolio](https://ankushmishra.dev)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankush-mishra-ji-39455a166/)  
 - 📫 Email: ankush.rdso@gmail.com  
 
