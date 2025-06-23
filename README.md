@@ -63,12 +63,13 @@ I'm a passionate **Full Stack Developer** with a strong background in designing 
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Projects @ Appbroda
 
-- 🔍 **ETL Pipelines & Attribution**: Built scalable attribution engines and pipelines for report generation and internal experiments.  
-- 🚀 **Real-Time Teaching Platform (Turient)**: Integrated WebSocket-based real-time features enhancing professional learning.  
-- 📊 **Reporting API @ Appbroda**: Led the horizontal scaling and automation of key API systems with 0% client churn.  
-- 🌐 **Leanpitch.sg**: Developed and deployed a marketing site from scratch (Next.js + Django), reducing page load time by 20%.
+- 📊 **Scalable Reporting API**: Designed and implemented horizontal scaling for a critical reporting API, improving reliability and performance under load.  
+- 🔁 **ETL Pipelines for Attribution**: Built and maintained robust ETL pipelines for data attribution and analysis, enabling informed decision-making for internal teams and clients.  
+- 🤖 **Operational Automation**: Developed automation solutions that streamlined manual workflows, enhanced accuracy, and reduced engineering overhead.  
+- 🧠 **Product Ownership & Leadership**: Took complete ownership of product delivery, led a team of developers, mentored peers, and contributed hands-on to complex technical initiatives.  
+
 
 ---
 
